@@ -1,6 +1,8 @@
 # Resume of Sujin-Jeon
 > 빠르게 습득하고 체화하고싶은 개발자가 되고싶습니다.
- 
+
+<br> 
+
 ## ❕ Outline
 
 ### Introduce
@@ -19,6 +21,7 @@
 - JavaScript, HTML5/CSS3
 - Oracle, SQL
 - Git/GitHub, Figma, Notion
+<br>
 
 ## ❕ Projects
 
@@ -32,7 +35,8 @@ Javascript / HTML5/CSS3 / JSON
 	Oracle / SQL Developer
 - 역할 : [실천하기 게시판 프론트엔드 및 백엔드(시현 영상)](https://bit.ly/3O2YImQ)
 - [프로젝트 상세 설명]() 참고
- 
+<br>
+
 ## ❕ Education
 **자바&스프링기반 AWS 클라우드 융합 개발자 양성과정 이수**
 쌍용강북교육센터
@@ -43,9 +47,13 @@ Javascript / HTML5/CSS3 / JSON
 사범대학 지구과학교육 및 공통과학 전공
 2013년 3월 - 2017년 8월
 
+<br> 
+
 ## ❕ Carrer
 **관악구청**, 서울시 관악구 -- 환경8급
 2019년 12월 -2022년 12월
+
+<br> 
 
 ## ❕ Certificate
 **SQL 개발자(SQLD)**
