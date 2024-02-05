@@ -27,10 +27,9 @@
 - 개발 기간 : 2023.07.25.~2023.08.18. (4주간)
 - 개발 인원 : 5명 (팀 프로젝트)
 - 사용 기술 : 
-	-	Java (JDK 17), JavaScript, HTML5/CSS3
-	-	Spring Boot 3.1, MyBatis, JPA
-	-	Oracle, SQL Developer
-	-	JSON, jQuery, 카카오맵 API 등
+	Java (JDK 17) / Spring Boot / MyBatis / JPA 
+Javascript / HTML5/CSS3 / JSON
+	Oracle / SQL Developer
 - 역할 : [실천하기 게시판 프론트엔드 및 백엔드(시현 영상)](https://bit.ly/3O2YImQ)
 - [프로젝트 상세 설명]() 참고
  
